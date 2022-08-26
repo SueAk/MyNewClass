@@ -62,9 +62,9 @@ public class Operators {
 		//System.out.println("d=" + d);// 12
 
 		// Ternary Operator
-		int marks = 36;
+		int marks = 40;
 		String result;
-		result = (marks > 35) ? "pass" : "fail";
+		result = (marks > 39) ? "pass" : "fail";
 		System.out.println("Result:" + result);
 
 	}
