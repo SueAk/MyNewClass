@@ -62,3 +62,9 @@ public class SwichConditions {
 	}
 
 }
+//Note: The Java switch statement only works with:
+
+//Primitive data types: byte, short, char, and int
+//Enumerated types
+//String Class
+//Wrapper Classes: Character, Byte, Short, and Integer.
