@@ -7,7 +7,7 @@ public class IfElseNested {
 
 	int a = 10, b = 20, c = 30;
 
-	if(a>b);
+	if(a>b)
 	{
 
 		if (a > c) {
@@ -17,7 +17,9 @@ public class IfElseNested {
 		else {
 			System.out.println(c);
 		}
-	}else{
+	}
+	else
+	{
 
 		if (b < c) {
 			System.out.println(b);
