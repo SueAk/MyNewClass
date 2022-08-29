@@ -4,8 +4,8 @@ public class ForLoopIncrement {
 
 	public static void main(String[] args) {
 		
-		int x=10;
-		for(x=1; x<=11; x++) {
+		//int x;
+		for(int x=1; x<=49; x++) {
 			System.out.println(x);
 		}
 		
